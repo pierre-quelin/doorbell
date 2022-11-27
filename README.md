@@ -12,7 +12,9 @@ A big thanks to :
 ## Software implementation
 
 Sleep mode : Power-down
+
 Wake up on INT0 on pin PB2 change.
+
 Use the timer1 as a tick generator to obtain compliant timings.
 
 ### Libs
